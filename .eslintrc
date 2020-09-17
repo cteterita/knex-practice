@@ -3,7 +3,12 @@
     "globals": {
         "supertest": true,
         "expect": true,
-        "describe": true,
-        "it": true
+        "describe": true,,
+        "context": true,
+        "it": true,
+        "before": true,
+        "beforeEach": true,
+        "after": true,
+        "afterEach": true
     }
 }
